@@ -1,1 +1,1 @@
-
+Purpose of this project is to utilize SQL to research employees of a company by aggregating employee data from the company's system. In this project, I took 6x CSV files with pertinent information and broke it down by displaying the CSV files relationships to eachother, writing out a SQL script and querrying data off of requirements.  
